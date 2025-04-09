@@ -1,6 +1,6 @@
 fastapi
 openai
 pydub
-uvicorn
+uvicorn[standard]
 python-multipart
 
